@@ -2,9 +2,9 @@
 
 This repository consists of codes produced for my MPhys research project for 2022/23
 
-Title: Charged Particle Image Processing with Machine Learning
+**Title:** Charged Particle Image Processing with Machine Learning
 
-Abstract: An alternative means of increasing the spatial resolution in charged particle imaging experiments
+**Abstract:** An alternative means of increasing the spatial resolution in charged particle imaging experiments
 is presented. The most popular method of currently performing this is known as centroiding. A typical
 ion/electron strike will cover many pixels in an image; centroiding selects only the local maximum of
 this distribution as the true strike point and ignores all neighbouring pixels. This method can be
